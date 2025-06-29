@@ -1,0 +1,26 @@
+
+[General]
+	#The Y coordinate for the container bar to display
+	#Default: 4
+	"Container Hud Y" = 4
+	#The X coordinate for the container to display
+	#Default: -60
+	"Container Hud X" = -60
+	#Position to anchor the widgets in
+	#Options: TOP_LEFT, TOP_CENTER, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER, BOTTOM_RIGHT
+	#Default: TOP_CENTER
+	#Allowed Values: TOP_LEFT, TOP_CENTER, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_CENTER, BOTTOM_RIGHT
+	"Anchor Point" = "TOP_CENTER"
+	#The Y coordinate for the overuse to display
+	#Default: 16
+	"Overuse Hud Y" = 16
+	#The X coordinate for the overuse to display
+	#Default: 0
+	"Overuse Hud X" = 0
+	#The X coordinate for the fill bar to display
+	#Default: -57
+	"Fill Hud X" = -57
+	#The Y coordinate for the fill bar to display
+	#Default: 7
+	"Fill Hud Y" = 7
+

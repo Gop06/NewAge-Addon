@@ -1,0 +1,24 @@
+
+[General]
+	#Enables players to unlock a knock-off version of geppo at 2,000 Doriki 
+	#Default: true
+	"Allow Cheappo" = true
+
+	[General."Spawn Chances"]
+		#Chance for revolutionary commanders to spawn in world
+		#Default: 100
+		#Range: 0.0 ~ 100.0
+		"Rev Commanders Spawn Chance" = 100.0
+		#Chance for revolutionary officers to spawn in world
+		#Default: 100
+		#Range: 0.0 ~ 100.0
+		"Rev Officers Spawn Chance" = 100.0
+		#Chance for PX-II to spawn in world
+		#Default: 100
+		#Range: 0.0 ~ 100.0
+		"PX-II Spawn Chance" = 100.0
+		#Chance for revolutionary grunts to spawn in world
+		#Default: 100
+		#Range: 0.0 ~ 100.0
+		"Rev Grunts Spawn Chance" = 100.0
+

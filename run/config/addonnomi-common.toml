@@ -1,0 +1,285 @@
+
+[KamusariAbility]
+	overuse = 4999
+	cooldown = 300
+
+[GalaxyImpactAbility]
+	chargeTime = 60
+	overuse = 4999
+	cooldown = 700
+
+[ObservationKillerAbility]
+	overuse = 19999
+	cooldown = 600
+	range = 200
+
+[EffectNullificationAbility]
+	overuse = 2999
+	cooldown = 240
+
+[DropAbility]
+	cooldown = 140
+
+[FloatGunAbility]
+	cooldown = 140
+
+[LevitateAbility]
+	cooldown = 100
+	effectDuration = 60
+
+[GigaLevitateAbility]
+	cooldown = 2400
+	effectDuration = 100
+
+[MassLevitateAbility]
+	cooldown = 300
+	range = 10
+	effectDuration = 100
+
+[SelfLevitateAbility]
+	cooldown = 600
+	threshold = 600
+
+[TyphoonAbility]
+	cooldown = 400
+	range = 15
+	threshold = 160
+
+[WindSuitAbility]
+	cooldown = 400
+	threshold = 160
+
+[AirBubbleAbility]
+	cooldown = 160
+
+[WindSliceAbility]
+	cooldown = 100
+
+[AirSliceBarrageAbility]
+	cooldown = 240
+
+[LeafCutterAbility]
+	cooldown = 140
+	effectDuration = 60
+
+[FlowerHoverAbility]
+	cooldown = 300
+	threshold = 600
+
+[PollenSeasonAbility]
+	cooldown = 400
+	range = 20
+	threshold = 160
+
+[SharpLeafRushAbility]
+	cooldown = 240
+
+[NaturesBlessingAbility]
+	cooldown = 200
+	range = 10
+
+[DruidPointAbility]
+	cooldown = 600
+	threshold = 400
+
+[MudCannonAbility]
+	cooldown = 160
+
+[MudTravelAbility]
+	cooldown = 600
+	threshold = 600
+
+[PoisonIvyAbility]
+	cooldown = 240
+	range = 20
+
+[SwampBodyAbility]
+	cooldown = 600
+	threshold = 300
+
+[SwampFistAbility]
+	cooldown = 120
+	effectDuration = 40
+
+[MosquitoSwarmAbility]
+	cooldown = 240
+
+[StinkyGatlingAbility]
+	cooldown = 200
+
+[SwampBodyTransferAbility]
+	cooldown = 200
+	range = 32
+
+[FlexAbility]
+	cooldown = 600
+	effectDuration = 300
+
+[MountainHurlAbility]
+	cooldown = 300
+
+[StrengthSupportAbility]
+	cooldown = 300
+	effectDuration = 100
+
+[StrongGroundPunchAbility]
+	cooldown = 300
+	range = 20
+
+[StrengthAbility]
+	cooldown = 400
+	threshold = 400
+
+[AgeUpAbility]
+	cooldown = 140
+	effectDuration = 60
+
+[TimeWarpAbility]
+	chargeTime = 20
+	cooldown = 160
+	range = 300
+
+[ChronoShiftAbility]
+	cooldown = 600
+	threshold = 300
+	effectDuration = 80
+
+[TemporalFluxAbility]
+	cooldown = 400
+	range = 15
+	threshold = 100
+
+[TimeDilationAbility]
+	cooldown = 12000
+
+[TimeRippleAbility]
+	cooldown = 600
+	threshold = 300
+
+[BackWarpAbility]
+	cooldown = 200
+
+[SelfWarpAbility]
+	cooldown = 1800
+
+[OtherWarpAbility]
+	cooldown = 6000
+
+[ShortWarpAbility]
+	chargeTime = 40
+	cooldown = 100
+	range = 200
+
+[BattoVampireSenses]
+	cooldown = 600
+	range = 30
+
+[BloodPortalAbility]
+	chargeTime = 40
+	cooldown = 140
+	range = 200
+
+[BattoBloodSuckAbility]
+	cooldown = 400
+	effectDuration = 100
+
+[BattoRegenerateAbility]
+	cooldown = 1000
+	effectDuration = 100
+
+[BattoVampirePointAbility]
+	cooldown = 600
+	threshold = 300
+
+[BattoVampireFlightAbility]
+	cooldown = 800
+	threshold = 200
+
+[SpaceRipperStingyEyesAbility]
+	cooldown = 60
+
+[IfritJambeAbility]
+	cooldown = 600
+	threshold = 300
+
+[IfritTendronAbility]
+	cooldown = 240
+
+[RyuNoIbukiAbility]
+	cooldown = 240
+	range = 15
+
+[RyuNoTekkaiAbility]
+	cooldown = 400
+	threshold = 160
+
+[RyuNoKagizumeAbility]
+	cooldown = 400
+
+[EverythingHasACoreAbility]
+	cooldown = 600
+	range = 25
+
+[SanzenSekaiAbility]
+	cooldown = 140
+
+[RengokuOnigiriAbility]
+	chargeTime = 20
+	cooldown = 180
+	range = 30
+
+[KokujoOTatsumakiAbility]
+	cooldown = 240
+	threshold = 60
+
+[SenhachijuPoundHoAbility]
+	cooldown = 240
+
+[GoruArmorAbility]
+	cooldown = 400
+	threshold = 160
+
+[GoruBulletsAbility]
+	cooldown = 200
+
+[GoruSlamAbility]
+	cooldown = 240
+
+[GoruSqueezeAbility]
+	chargeTime = 20
+	cooldown = 400
+
+[GoruWallAbility]
+	cooldown = 140
+
+[KoganeNoTaihouAbility]
+	cooldown = 400
+
+[PiratePlunderAbility]
+	cooldown = 600
+
+[RevolutionaryMotivationAbility]
+	cooldown = 600
+	effectDuration = 100
+
+[FireDischargeAbility]
+	cooldown = 300
+	range = 16
+	effectDuration = 100
+
+[LunarianCutAbility]
+	cooldown = 100
+	effectDuration = 60
+
+[LunarianFlightAbility]
+	cooldown = 300
+	threshold = 300
+
+[LunarianWingFireAbility]
+	cooldown = 400
+	threshold = 160
+
+[BusoGrabAbility]
+	chargeTime = 80
+	cooldown = 400
+

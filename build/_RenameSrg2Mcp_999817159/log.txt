@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-8.0.452.9-hotspot\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\Gonçalo Pimenta\.gradle\caches\modules-2\files-2.1\curse.maven\hito-hito-no-mi-model-nika-1014341\6565115\284656fe606243bd6c59607bf5883fe2fab48120\hito-hito-no-mi-model-nika-1014341-6565115.jar, --output, C:\Users\Gonçalo Pimenta\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\hito-hito-no-mi-model-nika-1014341\6565115_mapped_official_1.16.5\hito-hito-no-mi-model-nika-1014341-6565115_mapped_official_1.16.5.jar, --mcp, C:\Users\Gonçalo Pimenta\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.16.5\mapping-1.16.5-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\Gonçalo Pimenta\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: C:\Users\Gonçalo Pimenta\OneDrive\Ambiente de Trabalho\backup 3\build\_RenameSrg2Mcp_999817159
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\Gonￃﾧalo Pimenta\.gradle\caches\modules-2\files-2.1\curse.maven\hito-hito-no-mi-model-nika-1014341\6565115\284656fe606243bd6c59607bf5883fe2fab48120\hito-hito-no-mi-model-nika-1014341-6565115.jar
+Output: C:\Users\Gonￃﾧalo Pimenta\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\hito-hito-no-mi-model-nika-1014341\6565115_mapped_official_1.16.5\hito-hito-no-mi-model-nika-1014341-6565115_mapped_official_1.16.5.jar
+MCP:    C:\Users\Gonￃﾧalo Pimenta\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.16.5\mapping-1.16.5-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

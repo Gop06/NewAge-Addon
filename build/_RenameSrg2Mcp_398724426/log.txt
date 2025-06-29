@@ -1,0 +1,15 @@
+Java Launcher: C:\Program Files\Eclipse Adoptium\jdk-8.0.452.9-hotspot\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\griff\.gradle\caches\modules-2\files-2.1\curse.maven\addon-no-mi-1070610\6626326\7c59a454e42e34940f91f734b2b07c9db76b81c5\addon-no-mi-1070610-6626326.jar, --output, C:\Users\griff\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\addon-no-mi-1070610\6626326_mapped_official_1.16.5\addon-no-mi-1070610-6626326_mapped_official_1.16.5.jar, --mcp, C:\Users\griff\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.16.5\mapping-1.16.5-mapping.zip, --strip-signatures'
+Classpath:
+ - C:\Users\griff\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.4.4\installertools-1.4.4-fatjar.jar
+Working directory: C:\Users\griff\OneDrive\Desktop\mine-mine-no-mi-addon-template-main\build\_RenameSrg2Mcp_398724426
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\griff\.gradle\caches\modules-2\files-2.1\curse.maven\addon-no-mi-1070610\6626326\7c59a454e42e34940f91f734b2b07c9db76b81c5\addon-no-mi-1070610-6626326.jar
+Output: C:\Users\griff\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\addon-no-mi-1070610\6626326_mapped_official_1.16.5\addon-no-mi-1070610-6626326_mapped_official_1.16.5.jar
+MCP:    C:\Users\griff\.gradle\caches\forge_gradle\mcp_repo\net\minecraft\mapping\1.16.5\mapping-1.16.5-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

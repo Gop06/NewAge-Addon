@@ -1,0 +1,7 @@
+
+[General]
+	#Sets a throttle (in ticks) between syncing haki from the server to the client
+	#Default: 1
+	#Range: > 1
+	Throttle = 1
+

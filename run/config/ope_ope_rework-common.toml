@@ -1,0 +1,14 @@
+#Allows to use ope abilities outside of room after awakening 
+#Default: true
+"Outside Ope abilities" = true
+#Defines Maximum size room can get 
+#Default: 45
+#Range: 8 ~ 250
+"Max Room Size" = 45
+#Only Ope User can see own room 
+#Default: false
+"Invisible Room" = false
+#Only Nagi User can see own silent area 
+#Default: true
+"Invisible Silent" = true
+

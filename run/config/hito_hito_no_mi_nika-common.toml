@@ -1,0 +1,7 @@
+#Uses leg abilities if you are Black leg user
+#Default: true
+"Black Leg Abilities" = true
+#Abilities from video games, films, ect.
+#Default: false
+"Non-Canon Abilities" = false
+

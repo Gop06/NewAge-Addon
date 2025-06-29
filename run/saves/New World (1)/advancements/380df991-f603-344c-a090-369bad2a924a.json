@@ -1,0 +1,45 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-24 21:33:55 +0100"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/haki_master": {
+    "criteria": {
+      "unlock_kenbunshoku_aura": "2025-06-24 21:32:48 +0100"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-24 21:39:04 +0100"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-24 21:39:04 +0100"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/whats_kairoseki": {
+    "criteria": {
+      "unlock_kenbunshoku_aura": "2025-06-24 21:32:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-06-24 21:32:49 +0100",
+      "minecraft:deep_cold_ocean": "2025-06-24 21:33:15 +0100",
+      "minecraft:desert": "2025-06-24 21:34:42 +0100",
+      "minecraft:beach": "2025-06-24 21:33:13 +0100",
+      "minecraft:river": "2025-06-24 21:33:14 +0100",
+      "minecraft:savanna": "2025-06-24 21:34:44 +0100",
+      "minecraft:plains": "2025-06-24 21:40:07 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

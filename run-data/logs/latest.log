@@ -1,0 +1,62 @@
+[12Jun2025 23:42:58.426] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--mod, mineminenomiaddontemplate, --all, --output, C:\Users\Gonçalo Pimenta\OneDrive\Ambiente de Trabalho\backup 3\src\generated\resources, --existing, C:\Users\Gonçalo Pimenta\OneDrive\Ambiente de Trabalho\backup 3\src\main\resources, --mixin.config, mineminenomiaddontemplate.mixins.json, --gameDir, ., --launchTarget, fmluserdevdata, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 36.2.39, --assetIndex, 1.16, --assetsDir, C:\Users\Gonçalo Pimenta\.gradle\caches\forge_gradle\assets]
+[12Jun2025 23:42:58.435] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_452 by Temurin
+[12Jun2025 23:42:59.599] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[12Jun2025 23:42:59.757] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Gon%c3%a7alo%20Pimenta/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.4/4ec7d77d9ab32596ca0b78bb123956734767e3a/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[12Jun2025 23:43:02.376] [main/ERROR] [mixin/]: Mixin config addonnomi.mixins.json does not specify "minVersion" property
+[12Jun2025 23:43:02.396] [main/ERROR] [mixin/]: Mixin config hito_hito_no_mi_nika.mixin.json does not specify "minVersion" property
+[12Jun2025 23:43:02.400] [main/ERROR] [mixin/]: Mixin config ope_ope_rework.mixin.json does not specify "minVersion" property
+[12Jun2025 23:43:02.406] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmluserdevdata' with arguments [--gameDir, ., --assetsDir, C:\Users\Gonçalo Pimenta\.gradle\caches\forge_gradle\assets, --mod, mineminenomiaddontemplate, --all, --output, C:\Users\Gonçalo Pimenta\OneDrive\Ambiente de Trabalho\backup 3\src\generated\resources, --existing, C:\Users\Gonçalo Pimenta\OneDrive\Ambiente de Trabalho\backup 3\src\main\resources, --assetIndex, 1.16]
+[12Jun2025 23:43:02.495] [main/WARN] [mixin/]: Reference map 'MineMineNoMiAddonTemplate.refmap.json' for mineminenomiaddontemplate.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 23:43:02.501] [main/WARN] [mixin/]: Reference map 'addonnomi.mixins.refmap.json' for addonnomi.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 23:43:02.779] [main/INFO] [mixin/]: Remapping refMap mine-mine-no-mi.refmap.json using C:\Users\Gonçalo Pimenta\OneDrive\Ambiente de Trabalho\backup 3\build\createSrgToMcp\output.srg
+[12Jun2025 23:43:02.782] [main/WARN] [mixin/]: Reference map 'CartAddon.refmap.json' for cartaddon.mixins.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 23:43:02.787] [main/INFO] [mixin/]: Remapping refMap mixins.hito_hito_no_mi_nika.refmap.json using C:\Users\Gonçalo Pimenta\OneDrive\Ambiente de Trabalho\backup 3\build\createSrgToMcp\output.srg
+[12Jun2025 23:43:02.789] [main/WARN] [mixin/]: Reference map 'mixins.fruit_progression.refmap.json' for ope_ope_rework.mixin.json could not be read. If this is a development environment you can ignore this message
+[12Jun2025 23:43:03.629] [main/WARN] [mixin/]: Error loading class: org/valkyrienskies/core/util/assertions/stages/TickStageEnforcerImpl (java.lang.ClassNotFoundException: null)
+[12Jun2025 23:43:03.630] [main/WARN] [mixin/]: @Mixin target org.valkyrienskies.core.util.assertions.stages.TickStageEnforcerImpl was not found mine-mine-no-mi.mixins.json:valkyrienskies.TickStageEnforcerImplMixin
+[12Jun2025 23:43:04.244] [main/INFO] [net.minecraftforge.fml.DatagenModLoader/]: Initializing Data Gatherer for mods [mineminenomiaddontemplate]
+[12Jun2025 23:43:16.755] [modloading-worker-11/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
+[12Jun2025 23:43:16.946] [modloading-worker-11/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.39 Initialized
+[12Jun2025 23:43:17.987] [modloading-worker-12/ERROR] [mixin/]: Write access detected to @Final field hardcore:Z in mine-mine-no-mi.mixins.json:client.DeathScreenMixin::handler$zbn000$init
+[12Jun2025 23:43:19.198] [modloading-worker-13/WARN] [mixin/]: @Final field MOKU_MOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.198] [modloading-worker-13/WARN] [mixin/]: @Final field PIKA_PIKA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.198] [modloading-worker-13/WARN] [mixin/]: @Final field HITO_HITO_NO_MI_DAIBUTSU:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.199] [modloading-worker-13/WARN] [mixin/]: @Final field KIRA_KIRA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.199] [modloading-worker-13/WARN] [mixin/]: @Final field DOKU_DOKU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.199] [modloading-worker-13/WARN] [mixin/]: @Final field GURA_GURA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.199] [modloading-worker-13/WARN] [mixin/]: @Final field MAGU_MAGU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.199] [modloading-worker-13/WARN] [mixin/]: @Final field TORI_TORI_NO_MI_PHOENIX:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.200] [modloading-worker-13/WARN] [mixin/]: @Final field GORO_GORO_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.200] [modloading-worker-13/WARN] [mixin/]: @Final field GOE_GOE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.200] [modloading-worker-13/WARN] [mixin/]: @Final field CHIYU_CHIYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.200] [modloading-worker-13/WARN] [mixin/]: @Final field NIKYU_NIKYU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.200] [modloading-worker-13/WARN] [mixin/]: @Final field SUNA_SUNA_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.200] [modloading-worker-13/WARN] [mixin/]: @Final field RYU_RYU_NO_MI_PTERANODON:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.201] [modloading-worker-13/WARN] [mixin/]: @Final field JIKI_JIKI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in cartaddon.mixins.json:ReworkAbilitiesMixin should be final
+[12Jun2025 23:43:19.202] [modloading-worker-13/WARN] [mixin/]: @Final field GOMU_GOMU_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in hito_hito_no_mi_nika.mixin.json:ModAbilitiesMixin should be final
+[12Jun2025 23:43:19.204] [modloading-worker-13/WARN] [mixin/]: @Final field NAGI_NAGI_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in ope_ope_rework.mixin.json:ModAbilitiesMixin should be final
+[12Jun2025 23:43:19.204] [modloading-worker-13/WARN] [mixin/]: @Final field OPE_OPE_NO_MI:Lxyz/pixelatedw/mineminenomi/items/AkumaNoMiItem; in ope_ope_rework.mixin.json:ModAbilitiesMixin should be final
+[12Jun2025 23:43:19.812] [modloading-worker-13/WARN] [mixin/]: @Final field INSTANCE:Lxyz/pixelatedw/mineminenomi/api/abilities/AbilityCore; in ope_ope_rework.mixin.json:SilentMixin should be final
+[12Jun2025 23:43:23.341] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
+[12Jun2025 23:43:23.350] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
+[12Jun2025 23:43:23.350] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
+[12Jun2025 23:43:23.351] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
+[12Jun2025 23:43:23.351] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
+[12Jun2025 23:43:23.351] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
+[12Jun2025 23:43:23.351] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
+[12Jun2025 23:43:23.351] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.change_character
+[12Jun2025 23:43:23.351] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
+[12Jun2025 23:43:23.351] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
+[12Jun2025 23:43:23.352] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
+[12Jun2025 23:43:23.352] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
+[12Jun2025 23:43:23.352] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
+[12Jun2025 23:43:23.352] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
+[12Jun2025 23:43:23.352] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
+[12Jun2025 23:43:23.352] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
+[12Jun2025 23:43:23.353] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
+[12Jun2025 23:43:23.353] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
+[12Jun2025 23:43:23.353] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
+[12Jun2025 23:43:23.353] [modloading-worker-13/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
+[12Jun2025 23:43:23.605] [modloading-worker-13/WARN] [mixin/]: @Final field forwards:Lnet/minecraft/util/math/vector/Vector3f; in mine-mine-no-mi.mixins.json:client.ActiveRenderInfoMixin should be final
+[12Jun2025 23:43:28.285] [main/INFO] [mineminenomi/]: Started Generating JSON files
+[12Jun2025 23:43:28.645] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 0 ms
