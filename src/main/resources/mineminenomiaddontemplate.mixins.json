@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.ympl.mineminenomiaddontemplate.mixin",
+  "package": "net.NewAge.addon.mixin",
   "compatibilityLevel": "JAVA_8",
   "refmap": "MineMineNoMiAddonTemplate.refmap.json",
   "mixins": [
