@@ -1,0 +1,107 @@
+{
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 13:36:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-13 15:48:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 13:36:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-08-13 15:41:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-13 15:41:12 +0100",
+      "minecraft:spider": "2025-08-13 15:41:12 +0100",
+      "minecraft:creeper": "2025-08-13 15:41:12 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 13:36:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 13:36:26 +0100"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/equipment/cola_backpack": {
+    "criteria": {
+      "has_ultra_cola": "2025-08-13 15:47:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-29 22:56:15 +0100"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/haki_master": {
+    "criteria": {
+      "unlock_busoshoku_imbuing": "2025-06-29 22:56:34 +0100",
+      "unlock_kenbunshoku_aura": "2025-06-29 22:56:34 +0100",
+      "unlock_busoshoku_internal_destruction": "2025-06-29 22:56:34 +0100",
+      "unlock_kenbunshoku_future_sight": "2025-06-29 22:56:34 +0100",
+      "unlock_busoshoku_emission": "2025-06-29 22:56:34 +0100",
+      "unlock_busoshoku_fullbody": "2025-06-29 22:56:34 +0100",
+      "unlock_busoshoku_hardening": "2025-06-29 22:56:34 +0100"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-29 22:56:15 +0100"
+    },
+    "done": true
+  },
+  "mineminenomi:adventure/whats_kairoseki": {
+    "criteria": {
+      "unlock_busoshoku_hardening": "2025-06-29 22:56:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 13:36:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-07-03 13:36:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2025-06-29 22:55:35 +0100",
+      "minecraft:forest": "2025-06-29 21:58:32 +0100",
+      "minecraft:deep_cold_ocean": "2025-07-03 13:40:35 +0100",
+      "minecraft:deep_frozen_ocean": "2025-07-03 13:39:00 +0100",
+      "minecraft:beach": "2025-06-29 21:58:26 +0100",
+      "minecraft:river": "2025-06-29 22:56:00 +0100",
+      "minecraft:plains": "2025-06-29 22:50:49 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
